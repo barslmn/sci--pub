@@ -1,0 +1,15 @@
+django
+
+django-allauth
+django-simple-captcha
+
+django-activity-stream
+django-jsonfield
+django-jsonfield-compat
+
+gunicorn
+psycopg2-binary
+
+django-publications
+
+django-comments-xtd
